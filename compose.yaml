@@ -22,5 +22,12 @@ services:
     build:
       context: .
       target: final
-    ports:
-      - "8080:8080"
+  ports:
+    - "8080:8080" # Puerto HTTP
+    - "8443:443"  # Puerto HTTPS (mapea el puerto 443 del contenedor al 8443 en tu máquina)
+  environment:
+    - ASPNETCORE_URLS=https://+:443;http://+:8080 # Define los puertos HTTP y HTTPS
+    - ASPNETCORE_Kestrel__Certificates__Default__Password=Dimas2020
+    - ASPNETCORE_Kestrel__Certificates__Default__Path=/https/your_cert.pfx
+  volumes:
+    - ./certs:/https:ro # Monta el certificado SSL
