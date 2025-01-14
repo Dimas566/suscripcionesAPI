@@ -1,0 +1,12 @@
+/Users/dimasgarcia/Documents/Prueba Tecnica/suscripcionesAPI/Domain/bin/Debug/net9.0/Domain.deps.json
+/Users/dimasgarcia/Documents/Prueba Tecnica/suscripcionesAPI/Domain/bin/Debug/net9.0/Domain.dll
+/Users/dimasgarcia/Documents/Prueba Tecnica/suscripcionesAPI/Domain/bin/Debug/net9.0/Domain.pdb
+/Users/dimasgarcia/Documents/Prueba Tecnica/suscripcionesAPI/Domain/obj/Debug/net9.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dimasgarcia/Documents/Prueba Tecnica/suscripcionesAPI/Domain/obj/Debug/net9.0/Domain.AssemblyInfoInputs.cache
+/Users/dimasgarcia/Documents/Prueba Tecnica/suscripcionesAPI/Domain/obj/Debug/net9.0/Domain.AssemblyInfo.cs
+/Users/dimasgarcia/Documents/Prueba Tecnica/suscripcionesAPI/Domain/obj/Debug/net9.0/Domain.csproj.CoreCompileInputs.cache
+/Users/dimasgarcia/Documents/Prueba Tecnica/suscripcionesAPI/Domain/obj/Debug/net9.0/Domain.dll
+/Users/dimasgarcia/Documents/Prueba Tecnica/suscripcionesAPI/Domain/obj/Debug/net9.0/refint/Domain.dll
+/Users/dimasgarcia/Documents/Prueba Tecnica/suscripcionesAPI/Domain/obj/Debug/net9.0/Domain.pdb
+/Users/dimasgarcia/Documents/Prueba Tecnica/suscripcionesAPI/Domain/obj/Debug/net9.0/ref/Domain.dll
+/Users/dimasgarcia/Documents/Prueba Tecnica/suscripcionesAPI/Domain/obj/Debug/net9.0/Domain.csproj.AssemblyReference.cache
