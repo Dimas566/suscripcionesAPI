@@ -13,3 +13,20 @@
 /Users/dimasgarcia/Documents/Prueba Tecnica/suscripcionesAPI/Application/obj/Debug/net9.0/refint/Application.dll
 /Users/dimasgarcia/Documents/Prueba Tecnica/suscripcionesAPI/Application/obj/Debug/net9.0/Application.pdb
 /Users/dimasgarcia/Documents/Prueba Tecnica/suscripcionesAPI/Application/obj/Debug/net9.0/ref/Application.dll
+/Users/dimasgarcia/Documents/Prueba Tecnica/suscripcionesAPI/Application/obj/Debug/net9.0/Application.sourcelink.json
+/workspaces/suscripcionesAPI/Application/bin/Debug/net9.0/Application.deps.json
+/workspaces/suscripcionesAPI/Application/bin/Debug/net9.0/Application.dll
+/workspaces/suscripcionesAPI/Application/bin/Debug/net9.0/Application.pdb
+/workspaces/suscripcionesAPI/Application/bin/Debug/net9.0/Domain.dll
+/workspaces/suscripcionesAPI/Application/bin/Debug/net9.0/Domain.pdb
+/workspaces/suscripcionesAPI/Application/obj/Debug/net9.0/Application.csproj.AssemblyReference.cache
+/workspaces/suscripcionesAPI/Application/obj/Debug/net9.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/suscripcionesAPI/Application/obj/Debug/net9.0/Application.AssemblyInfoInputs.cache
+/workspaces/suscripcionesAPI/Application/obj/Debug/net9.0/Application.AssemblyInfo.cs
+/workspaces/suscripcionesAPI/Application/obj/Debug/net9.0/Application.csproj.CoreCompileInputs.cache
+/workspaces/suscripcionesAPI/Application/obj/Debug/net9.0/Application.sourcelink.json
+/workspaces/suscripcionesAPI/Application/obj/Debug/net9.0/Applicat.44B5EDA2.Up2Date
+/workspaces/suscripcionesAPI/Application/obj/Debug/net9.0/Application.dll
+/workspaces/suscripcionesAPI/Application/obj/Debug/net9.0/refint/Application.dll
+/workspaces/suscripcionesAPI/Application/obj/Debug/net9.0/Application.pdb
+/workspaces/suscripcionesAPI/Application/obj/Debug/net9.0/ref/Application.dll

@@ -10,3 +10,17 @@
 /Users/dimasgarcia/Documents/Prueba Tecnica/suscripcionesAPI/Domain/obj/Debug/net9.0/Domain.pdb
 /Users/dimasgarcia/Documents/Prueba Tecnica/suscripcionesAPI/Domain/obj/Debug/net9.0/ref/Domain.dll
 /Users/dimasgarcia/Documents/Prueba Tecnica/suscripcionesAPI/Domain/obj/Debug/net9.0/Domain.csproj.AssemblyReference.cache
+/Users/dimasgarcia/Documents/Prueba Tecnica/suscripcionesAPI/Domain/obj/Debug/net9.0/Domain.sourcelink.json
+/workspaces/suscripcionesAPI/Domain/bin/Debug/net9.0/Domain.deps.json
+/workspaces/suscripcionesAPI/Domain/bin/Debug/net9.0/Domain.dll
+/workspaces/suscripcionesAPI/Domain/bin/Debug/net9.0/Domain.pdb
+/workspaces/suscripcionesAPI/Domain/obj/Debug/net9.0/Domain.csproj.AssemblyReference.cache
+/workspaces/suscripcionesAPI/Domain/obj/Debug/net9.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/suscripcionesAPI/Domain/obj/Debug/net9.0/Domain.AssemblyInfoInputs.cache
+/workspaces/suscripcionesAPI/Domain/obj/Debug/net9.0/Domain.AssemblyInfo.cs
+/workspaces/suscripcionesAPI/Domain/obj/Debug/net9.0/Domain.csproj.CoreCompileInputs.cache
+/workspaces/suscripcionesAPI/Domain/obj/Debug/net9.0/Domain.sourcelink.json
+/workspaces/suscripcionesAPI/Domain/obj/Debug/net9.0/Domain.dll
+/workspaces/suscripcionesAPI/Domain/obj/Debug/net9.0/refint/Domain.dll
+/workspaces/suscripcionesAPI/Domain/obj/Debug/net9.0/Domain.pdb
+/workspaces/suscripcionesAPI/Domain/obj/Debug/net9.0/ref/Domain.dll
